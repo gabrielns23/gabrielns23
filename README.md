@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá!! 👋
 
-<!--
-**gabrielns23/gabrielns23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Gabriel Negreiros. Atualmente curso Computação na Universidade de Brasília e sou estagiário na área de desenvolvimento de software pela OI.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-negreiros-aba56823a/)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielns23/)
+
+## GitHub Stats 
+![Gabriel Negreiros GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielns23&show_icons=true&theme=onedark)
+
+## Used Languagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielns23&langs_count=8)
+
