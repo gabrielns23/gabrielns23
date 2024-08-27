@@ -9,5 +9,5 @@ Eu me chamo Gabriel Negreiros. Atualmente curso Computação na Universidade de 
 ![Gabriel Negreiros GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielns23&show_icons=true&theme=onedark)
 
 ## Used Languagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielns23&langs_count=10)
+![All Languages](https://img.shields.io/github/languages/count/gabrielns23?color=blue&style=flat-square)](https://github.com/gabrielns23)
 
